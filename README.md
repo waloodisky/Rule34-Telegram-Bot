@@ -1,4 +1,4 @@
-This is a telegram bot that sends images from [rule34](rule34.xxx).
+This is a telegram bot that sends images from [rule34](https://rule34.xxx).
 
 First of all, you need to replace the "BotToken" on the first line of "main.py" with your bot token.
 
