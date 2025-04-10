@@ -1,8 +1,12 @@
 ## A telegram bot that sends images from [rule34](https://rule34.xxx).
 
-**First of all, you need to replace the "BotToken" on the first line of [main.py](main.py) with your bot token.**
+### Installation:
 
-**Second of all, you need to install "requirements.txt".**
+**1- Use python 3.10 or above.**
+
+**2- Install [requirements.txt](requirements.txt).**
+
+**3- Replace the value of "BotToken" on the first line of [main.py](main.py) with your bot token.**
 
 ### The bot works like this:
 **If the command "/rule34" is typed, the bot will send a random image of the tag selected in the "Preference" variable.**
