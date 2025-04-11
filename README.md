@@ -7,9 +7,7 @@
 **2- Replace the value of "BotToken" on the first line of [main.py](main.py) with your bot token.**
 
 ### The bot works like this:
-**If the command "/rule34" is typed, the bot will send a random image of the tag selected in the "Preference" variable.**
-
-**The "Preference" variable is in the second line of [main.py](main.py) and can be changed (The default one is female).**
+**If the command "/rule34" is typed, the bot will send a random image of the tag selected in the "Preference" variable in the second line of [main.py](main.py) (There is no preference by default so it will send a completely random image by default).**
 
 **If the command "/rule34 somebody" is typed, the bot will send a random image of the tag "somebody" instead of the preferenced tag.**
 
