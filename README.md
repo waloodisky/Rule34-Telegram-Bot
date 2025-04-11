@@ -18,9 +18,9 @@
 ### Usage examples:
 
 > **User**: /rule34
-
+>
 > **Bot**: "Sends a picture of the preferenced tag"
-
+>
 > **User**: /rule34 makima
-
+>
 > **Bot**: "Sends a picture of Makima"
