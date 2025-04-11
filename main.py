@@ -1,5 +1,5 @@
 BotToken="Replace with your bot token"
-Preference="female"
+Preference=""
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 from rule34Py import rule34Py
