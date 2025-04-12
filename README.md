@@ -1,4 +1,4 @@
-## A telegram bot that sends images from [rule34](https://rule34.xxx).
+## A telegram bot that sends images from [rule34](https://rule34.xxx)
 
 ### Installation:
 
